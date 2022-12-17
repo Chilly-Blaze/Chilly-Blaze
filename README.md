@@ -1,6 +1,6 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chilly-Blaze&layout=compact"/>
 
-# Miserable world, but still there is flower
+## Miserable world, but still there is flower
 
 - Light theme believer and ![#ffbbff](https://img.shields.io/badge/-%23ffbbff-ffbbff?style=flat-square) is favorite color
 - Insufficient level, still in the learning period
