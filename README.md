@@ -4,7 +4,7 @@
 
 - <img alt="02heart random" title="02heart random" src="https://emojis.slackmojis.com/emojis/images/1643514787/7974/02heart.png?1643514787" width="30"> Light theme believer and ![#ffbbff](https://img.shields.io/badge/-%23ffbbff-ffbbff?style=flat-square) is favorite color
 - <img alt="02 bored random" title="02 bored random" src="https://emojis.slackmojis.com/emojis/images/1643515868/18838/02_bored.png?1643515868" width="30"> Insufficient level, still in the learning period
-- <img alt="02 cheer random" title="02 cheer random" src="https://emojis.slackmojis.com/emojis/images/1643515866/18823/02_cheer.gif?1643515866" width="30"> Phone and computer saboteur(~because of curiosity~)
+- <img alt="02 cheer random" title="02 cheer random" src="https://emojis.slackmojis.com/emojis/images/1643515866/18823/02_cheer.gif?1643515866" width="30"> Phone and computer saboteur
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Chilly-Blaze&show_icons=true&theme=buefy&hide=prs&layout=compact&hide_title=true"/>
 
