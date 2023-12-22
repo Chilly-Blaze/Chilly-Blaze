@@ -12,7 +12,7 @@
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" /> 
-  <img alt="Java" src="https://img.shields.io/badge/-java-DB4C40?style=flat-square&logo=java&logoColor=white" />
+  <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/-C++-1a73e8?style=flat-square&logo=C%2B%2B&logoColor=white" />
   <img alt="C#" src="https://img.shields.io/badge/-C%23-1a73e8?style=flat-square&logo=C Sharp&logoColor=white" />
   <img alt="Lua" src="https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" />
@@ -26,10 +26,9 @@
 
 ## <img alt="meow party blob cats" title="meow party blob cats" src="https://emojis.slackmojis.com/emojis/images/1643514596/5999/meow_party.gif?1643514596" width="30">Learned Tools
 <p>
-  <img alt="Spring" src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" />
   <img alt="SpringBoot" src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white" />
   <img alt="Vue" src="https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" /> 
-  <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=Vite&logoColor=white" /> 
+  <img alt="Jetpack%20Compose" src="https://img.shields.io/badge/-Jetpack%20Compose-6DB33F?style=flat-square&logo=jetpackcompose&logoColor=white" />
   <img alt="Pytorch" src="https://img.shields.io/badge/-Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white" />
   <img alt="Numpy" src="https://img.shields.io/badge/-Numpy-013243?style=flat-square&logo=Numpy&logoColor=white" />
   <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=white" />
@@ -48,7 +47,6 @@
   <img alt="Lenovo" src="https://img.shields.io/badge/-Lenovo-E2231A?style=flat-square&logo=Lenovo&logoColor=white" />
   <img alt="Windows" src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=white" />
   <img alt="Arch Linux" src="https://img.shields.io/badge/-Arch Linux-1793D1?style=flat-square&logo=ArchLinux&logoColor=white" />
-  <img alt="Kali Linux" src="https://img.shields.io/badge/-Kali Linux-557C94?style=flat-square&logo=Kali Linux&logoColor=white" />
   <img alt="OnePlus" src="https://img.shields.io/badge/-OnePlus-F5010C?style=flat-square&logo=OnePlus&logoColor=white" />
   <img alt="Oxygen OS" src="https://img.shields.io/badge/-Oxygen OS-3A209E?style=flat-square&logo=Oxygen&logoColor=white" />
 </p>
