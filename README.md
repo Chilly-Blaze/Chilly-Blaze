@@ -14,7 +14,7 @@
   <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" /> 
   <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/-C++-1a73e8?style=flat-square&logo=C%2B%2B&logoColor=white" />
-  <img alt="C#" src="https://img.shields.io/badge/-C%23-1a73e8?style=flat-square&logo=C Sharp&logoColor=white" />
+  <img alt="C#" src="https://img.shields.io/badge/-C%23-1a73e8?style=flat-square&logo=csharp&logoColor=white" />
   <img alt="Lua" src="https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" />
   <img alt="Haskell" src="https://img.shields.io/badge/-Haskell-5D4F85?style=flat-square&logo=Haskell&logoColor=white" />
   <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />
